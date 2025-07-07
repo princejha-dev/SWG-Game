@@ -20,7 +20,7 @@ A simple and fun command-line game based on **Snake 🐍, Water 💧, and Gun �
 
 *Prince Jha*  
 SY BSc IT | Python Learner  
-GitHub: [github.com/<your-username>](https://github.com/princejha-dev)
+GitHub: [github.com/princejha-dev](https://github.com/princejha-dev)
 
 ---
 
