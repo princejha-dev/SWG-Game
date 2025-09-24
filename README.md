@@ -2,7 +2,7 @@
 
 A simple and fun command-line game based on **Snake 🐍, Water 💧, and Gun 🔫** — an Indian variation of Rock Paper Scissors. Great for learning basic programming concepts and having some nostalgic fun.
 
-## 🎮 Gameplay Rules
+## 🎮 Gameplay Rule
 
 - **Snake drinks water** → Snake wins  
 - **Water douses gun** → Water wins  
